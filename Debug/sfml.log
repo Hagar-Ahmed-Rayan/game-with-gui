@@ -1,0 +1,317 @@
+﻿  Source.cpp
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(132,46): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(159,53): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(170,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(193,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(193,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(214,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(214,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(232,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(232,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(292,47): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(293,61): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(293,45): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(331,50): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(331,44): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(331,36): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(331,26): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(360,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(361,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(397,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(752,29): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(753,30): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(757,29): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(758,29): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(769,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(769,55): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(774,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(774,55): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(798,86): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(798,80): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(798,72): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(798,62): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(800,86): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(800,80): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(800,72): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(800,62): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(802,86): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(802,80): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(802,72): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(802,62): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(804,86): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(804,80): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(804,72): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(804,62): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(858,82): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(858,76): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(858,68): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(858,58): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(871,86): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(871,80): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(871,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(871,59): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(883,86): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(883,80): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(883,72): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(883,62): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(893,82): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(893,76): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(893,68): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(893,58): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(1238,64): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(1247,59): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(1253,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(1253,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(1270,60): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(1274,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(1274,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(1297,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(1297,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(1319,63): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(241,85): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(288,43): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(393,53): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(1263,95): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(1283,50): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(1309,50): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(149,17): warning C4101: 'b': unreferenced local variable
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(1018,21): warning C4101: 'b': unreferenced local variable
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(1288,21): warning C4101: 'yv': unreferenced local variable
+C:\Users\DELL\source\repos\sfml\sfml\Source.cpp(1286,21): warning C4101: 'u': unreferenced local variable
+  sfml.vcxproj -> C:\Users\DELL\source\repos\sfml\Debug\sfml.exe
